@@ -8,7 +8,6 @@ This project is a web scraping tool designed to extract product data from the Sh
 
 - Navigate through multiple categories and sub-categories on Shopee.
 - Extract detailed product information.
-- Handle pagination to scrape data across multiple pages.
 - Save scraped data into structured CSV files.
 
 ## How it Works
